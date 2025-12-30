@@ -1,2 +1,4 @@
 # Sentiment-Analysis-API
-📈 Sentiment Analysis API: A web API that analyzes text and returns its sentiment (positive, negative, neutral). 🧠 Built with pre-trained NLP models. 📊
+
+🧠 **Sentiment-Analysis-API**: Ultra-fast NLP microservice built with Rust.
+⚡ Optimized for real-time inference using pre-trained Transformer models.
